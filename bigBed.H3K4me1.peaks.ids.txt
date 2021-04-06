@@ -1,0 +1,2 @@
+ENCFF724ZOF	sigmoid_colon	H3K4me1-human
+ENCFF844XRN	stomach	H3K4me1-human
